@@ -1,0 +1,1 @@
+html page with various recipes for the Odin Project
